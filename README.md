@@ -6,7 +6,7 @@ All images run with Alpine.
 ## Requirements
 
 * Docker: https://docs.docker.com/get-docker/
-* Docker Compose: https://docs.docker.com/get-docker/
+* Docker Compose: https://docs.docker.com/compose/install/
 
 ## Usage
 
